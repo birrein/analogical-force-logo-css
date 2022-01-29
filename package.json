@@ -1,0 +1,26 @@
+{
+  "name": "analogical-force-logo-css",
+  "version": "1.0.0",
+  "description": "A test logo with html and css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birrein/analogical-force-logo-css.git"
+  },
+  "keywords": [
+    "logo",
+    "analogical",
+    "force",
+    "css",
+    "html"
+  ],
+  "author": "Manuel Marín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/birrein/analogical-force-logo-css/issues"
+  },
+  "homepage": "https://birrein.github.io/analogical-force-logo-css/"
+}
